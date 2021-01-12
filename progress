@@ -1,0 +1,4 @@
+This is my progress of getting experience with git commands and I used my command prompt for this practice.
+I created a new repository in my github account, and then in my command prompt, I created a new folder called 'gitFolder', I initialized an empty git repository in that foler using called 'mira technologies'.
+Then I created a new file called 'README.md', added it and commited it. I added my remote origin link which is the link to the repository I created in my github account where my changes would be pushed to, and I pushed to the master branch. 
+This is just a text file I want to practice with, Thanks.
